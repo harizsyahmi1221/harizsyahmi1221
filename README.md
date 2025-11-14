@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome!
+1. My name is Hariz Syahmi
+2. I'm currently a first-year in Bachelor of Computer Science (Data Engineering) at UTM
+3. Learning the ropes, so I appreciate your patience!
+
+## You can reach me from:
+[![Linkedin Profile](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/hariz-syahmi-75a637299/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Professional Gmail" height="72">](mailto:hariz.syahmi.mahathir@gmail.com)
+
 
 <!--
 **harizsyahmi1221/harizsyahmi1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
