@@ -4,8 +4,9 @@
 3. Learning the ropes, so I appreciate your patience!
 
 ## You can reach me from:
-[![Linkedin Profile](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/hariz-syahmi-75a637299/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Professional Gmail" height="72">](mailto:hariz.syahmi.mahathir@gmail.com)
+**LinkedIn:** https://www.linkedin.com/in/hariz-syahmi-75a637299/  
+**Email:** hariz.syahmi.mahathir@gmail.com
+
 
 
 <!--
