@@ -6,14 +6,14 @@
 - Interested in learning more about geospatial analysis and population studies.
 
 ### Skills
-- ""Languages:"" C++
-- ""Tools:"" Adobe Illstrator
-- ""Learning:"" SQL, Python, QGIS
+- **Languages:** C++
+- **Tools:** Adobe Illstrator
+- **Learning:** SQL, Python, QGIS
 
 ### Achievements:
-- 2025 : UiTM Foundation Debate Club Multimedia Unit
-- 2024/25 : Champion of Terengganu State Level Debate Competition (Reserve)
-- 
+- **2025:** UiTM Foundation Debate Club Multimedia Unit
+- **2024/25:** Champion of Terengganu State Level Debate Competition (Reserve)
+
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/hariz-syahmi-75a637299/) 
