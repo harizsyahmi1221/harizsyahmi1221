@@ -1,11 +1,23 @@
-## Welcome!
-1. My name is Hariz Syahmi
-2. I'm currently a first-year in Bachelor of Computer Science (Data Engineering) at UTM
-3. Learning the ropes, so I appreciate your patience!
+# Hi, I'm Hariz 😄
 
-## You can reach me from:
-**LinkedIn:** https://www.linkedin.com/in/hariz-syahmi-75a637299/  
-**Email:** hariz.syahmi.mahathir@gmail.com
+### About Me
+- First Year CS(Data Eng) Student | Aspiring Data Engineer
+- I love solving problems, optimizing processes, and building practical solutions.
+- Interested in learning more about geospatial analysis and population studies.
+
+### Skills
+- ""Languages:"" C++
+- ""Tools:"" Adobe Illstrator
+- ""Learning:"" SQL, Python, QGIS
+
+### Achievements:
+- 2025 : UiTM Foundation Debate Club Multimedia Unit
+- 2024/25 : Champion of Terengganu State Level Debate Competition (Reserve)
+- 
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/hariz-syahmi-75a637299/) 
+- [Email](mailto:hariz.syahmi.mahathir@gmail.com)
 
 
 
